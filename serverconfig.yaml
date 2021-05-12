@@ -1,0 +1,30 @@
+server1:
+  name: "Host: www.a.com"
+  file: "static/a.html"
+  username: "a"
+  password: "0cc175b9c0f1b6a831c399e269772661"
+server2:
+  name: "Host: www.a.com:3001"
+  file: "static/a.html"
+  username: "a"
+  password: "0cc175b9c0f1b6a831c399e269772661"
+server3:
+  name: "Host: www.b.com"
+  file: "static/b.html"
+  username: "b"
+  password: "92eb5ffee6ae2fec3ad71c777531578f"
+server4:
+  name: "Host: www.b.com:3001"
+  file: "static/b.html"
+  username: "b"
+  password: "92eb5ffee6ae2fec3ad71c777531578f"
+server5:
+  name: "Host: www.c.com"
+  file: "static/c.html"
+  username: "c"
+  password: "4a8a08f09d37b73795649038408b5f33"
+server6:
+  name: "Host: www.c.com:3001"
+  file: "static/c.html"
+  username: "c"
+  password: "4a8a08f09d37b73795649038408b5f33"
