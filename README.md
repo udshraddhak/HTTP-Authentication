@@ -1,2 +1,3 @@
-## BootCamp Dec 2020
 # HTTP-Authentication
+
+# A very simple implementation of a Authentication with HTTP WWW-Authenticate Header.
